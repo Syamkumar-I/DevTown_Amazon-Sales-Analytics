@@ -191,7 +191,7 @@ The dataset used in this project is based on an Amazon sales dataset available o
 
 🎓 B.Tech – Computer Science Engineering
 
-💻 Passionate about Python, Data Analytics, Machine Learning, and Problem Solving.
+💻 Passionate about Python, Data Analytics and Problem Solving.
 
 ---
 
